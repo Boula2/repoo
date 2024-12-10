@@ -7,7 +7,7 @@ import MainNavigator from "@/navigation/MainNavigator";
 // Create a bottom tab navigator
 const Tab = createBottomTabNavigator();
 
-// Home screen commponent
+// Home screen commponent here new
 const HomeScreen: React.FC = () => (
   <View style={styles.container}>
     <Text style={styles.title}>propcut</Text>
